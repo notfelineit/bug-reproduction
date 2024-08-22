@@ -1,6 +1,6 @@
 ## Minimal reproduction for Headless UI + Tailwind CSS
 
-[![](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)]([https://codesandbox.io/s/github/tailwindlabs/reproduction-headlessui-react](https://codesandbox.io/p/github/notfelineit/bug-reproduction/main?import=true))
+[![](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/p/github/notfelineit/bug-reproduction/main?import=true)
 
 ## Community
 
